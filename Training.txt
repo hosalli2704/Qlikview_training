@@ -1,1 +1,38 @@
+Data + Vizvalization 
 
+Vizalization - Charts/Graphs
+			 - UI Elements
+			 - Infographics
+			 - Sinages
+			 
+- Easy to understand
+- Quick way to communicate
+- Retention
+
+
+
+5 Ways we use Data Vizvalization
+
+1. To Analyze data
+   - Relations
+   - Patterns
+   - Trends
+   - Summary values
+   - Annomolies
+   
+   
+   - Unique values
+   - Count - Unique count
+           - Occurence
+		   
+   
+2. To discover(A needle in the hye stack0
+		- Interactive
+		
+3. To tell a story
+
+4. To tell a story by itself
+
+5. To teach
+
+		
